@@ -101,7 +101,7 @@ You can deploy this project by using any hosting services you prefare
 
 - GitHub: [@githubhandle](https://github.com/maths29)
 - Twitter: [@twitterhandle](https://twitter.com/maths29)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/iwu-john)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iwu-john-b92b01148/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
