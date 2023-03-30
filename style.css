@@ -8,11 +8,14 @@ body {
 
 .work-section {
   display: grid;
+  justify-content: center;
+  gap: 60px;
 }
 
 .card-works {
-  width: 327px;
-  height: 552px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   border: 1px solid #dee1e6;
   border-radius: 16px;
   padding: 20px;
@@ -94,9 +97,10 @@ body {
 }
 
 .about {
+  margin: 0 auto;
   padding: 20px;
   background-color: white;
-  width: 375px;
+  width: 360px;
   border-radius: 0 100px 0 0;
   margin-top: 100px;
 }
@@ -148,14 +152,16 @@ body {
 }
 
 .contact {
+  margin: 0 auto;
   background-color: #6070ff;
   border-radius: 100px 0 0 0;
-  width: 370px;
+  width: 360px;
   text-align: center;
   padding: 30px;
   color: white;
   display: grid;
   justify-content: center;
+  margin-top: 50px;
 }
 
 .contact h1 {
