@@ -79,6 +79,10 @@ body {
   margin-left: 20px;
 }
 
+.ul-2 {
+  display: grid;
+}
+
 .card-works .ul-2 {
   display: flex;
   list-style: none;
