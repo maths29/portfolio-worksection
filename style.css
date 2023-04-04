@@ -83,6 +83,10 @@ body {
   display: grid;
 }
 
+.ul-2 li {
+  float: left;
+}
+
 .card-works .ul-2 {
   display: flex;
   list-style: none;
