@@ -158,14 +158,20 @@
     </section>
 
     <section class="contact">
-        <h1>Contact me</h1>
-        <p>A daily selection of privately personalized reads: no accounts or sign-ups required</p>
-        <form>
-            <input type="text" placeholder="Lorem Ipsum">
-            <input type="email" placeholder="LoremIpsum@gmail.com">
-            <textarea placeholder="Write your message here..."></textarea>
-            <button class="form-btn">Get in touch</button>
-        </form>
+      <div class="contact1">
+        <h3>Contact me</h3>
+        <p>If you have an application you are interested in developing, a feature that you need
+            built or a project that needs coding. I'd love to help with it </p>
+       <form action="https://formspree.io/f/xzbqjwrb" method="POST">
+      <label for="full-name"></label>
+      <input type="text" id="full-name" name="full-name" maxlength="30" placeholder="Full name" required>
+      <label for="email"></label>
+      <input type="email" id="email" name="email" placeholder="Email address" required>
+      <label for="message"></label>
+      <textarea id="message" name="message" placeholder="Enter text here" maxlength="500" required></textarea>
+      <button type="submit" class="submit">Get in touch </button>
+      </form>
+    </div>
     </section>
     <script src="https://kit.fontawesome.com/fdfc6b7a0c.js" crossorigin="anonymous"></script>
 </body>

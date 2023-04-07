@@ -1,12 +1,13 @@
 <a name="readme-top"></a>
 
 <div align="center">
+  
 
-  <h3><b>Hello Microverse Project Documentation (My first Project with Microverse)</b></h3>
+  <h3><b>Mobile setup portfolio README</b></h3>
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
+
 
 # 📗 Table of Contents
 
@@ -14,7 +15,8 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [💻 Getting Started](#getting-started)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
@@ -26,13 +28,14 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio <a name="about-project"></a>
 
-**portfolio project** is my first  milestone in the process of creating a portfolio website.
+# 📖 [mobile first portfolio project] <a name="about-project"></a>
+
+**[mobile first portfolio project]** is a simple HTML and CSS webpage design from module 1 block 2 day 2 of Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,83 +43,116 @@
 
 
 <details>
-  <summary>HTML AND CSS</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.org/">HTML</a></li>
+    <li><a href="w3school.com/">CSS</a></li>
   </ul>
 </details>
 
-# key feature
-the key feature is the nav, the header, worksection and about myself section .
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
 
 
-<!-- GETTING STARTED -->
+
+### Key Features <a name="key-features"></a>
+
+ 
+- **[Add html webpage]**
+- **[Add readme.md files]**
+- **[Add MIT license file]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-
+ 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need fork or clone the repository
+In order to run this project you need:
 
+**A web Browser
+A text editor
+Basic knowledge of HTML and CSS
+Git (optional)**
 
 ### Setup
 
-Clone this repository to your folder.
-+ cd <folder-url>
-+ git clone <repository-url>
+Clone this repository to your desired folder:
+
+  **git clone https://github.com/maths29/portfolio-worksection.git**
 
 
 ### Install
 
-No installation required, go ahead and clone.
+Install this project with:
 
+  **npm install**
 
 ### Usage
 
-To run the project, just double-click on the index.html file
+To run the project, execute the following command:
 
+**npm start**
 
 ### Run tests
 
-no test necessary
+To run tests, run the following command:
 
-
-### Deployment
-
-You can deploy this project by using any hosting services you prefare
-
+  **npm test**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Author1**
 
-👤 **Iwu John Chinonso**
-
-- GitHub: [@githubhandle](https://github.com/maths29)
+ -GitHub: [@githubhandle](https://github.com/maths29)
 - Twitter: [@twitterhandle](https://twitter.com/maths29)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/iwu-john-b92b01148/)
 
+👤 **Author2**
+
+- GitHub: [@peteronyam](https://github.com/peteronyam)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **A full website**
+
+- [ ] **[Updating design]**
+- [ ] **[updating styling]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -126,12 +162,9 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+
 
 ## ⭐️ Show your support <a name="support"></a>
-
-
-If you like this project, kindly follow me on github and give me a thumbs up.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,15 +173,31 @@ If you like this project, kindly follow me on github and give me a thumbs up.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would love to thank all that are part of the inspirations for completing this project, first to Microverse.
+I would like to thank Microverse for this privilege 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+ 
+
+- **[License file is not working]**
+
+  - [Try to update the link to the license file and also update the license file in your code]
+
+- **[why is CSS styling not responding]**
+
+  - [make sure your CSS styling is having the same classes as used in the html file]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
