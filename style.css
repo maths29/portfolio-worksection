@@ -134,6 +134,14 @@ body {
   top: calc(50% - 48px / 2 - 0.36px);
 }
 
+.contact-img {
+  position: absolute;
+  width: 265px;
+  height: 709px;
+  top: 4652px;
+  left: 153px;
+}
+
 .dropdown1 ul .borderless img {
   margin: 20px 10px 20px 10px;
 }
@@ -288,13 +296,16 @@ body {
   padding: 14px;
   margin-top: 0;
   background: #6070ff;
-  height: auto;
+  height: 979px;
   color: #fff;
-  background-image: url(./img/cfp.png);
+  background-image: url(./img/my-shape.png);
   background-repeat: no-repeat;
-  background-position: absolute;
-  background-size: 100% 100%;
   min-width: 375px;
+  background-size: 100% 100%;
+}
+
+.contact1 {
+  margin-top: 126px;
 }
 
 .contact h3 {
